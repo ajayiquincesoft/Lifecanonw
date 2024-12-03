@@ -1,0 +1,70 @@
+.navbar-brand-img {
+  padding: 0 0 12px;
+}
+#sidenav-main .navbar-inner {
+  margin: 20px 0 0;
+}
+#sidenav-main .navbar-inner .navbar-nav .dropdown-menu {
+  background-color: #8efb2c;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+}
+#sidenav-main .dropdown-menu .nav-item {
+  border-bottom: 1px solid #209c09;
+}
+#sidenav-main .dropdown-menu .nav-item:last-child {
+  border-bottom: none;
+}
+#sidenav-main .dropdown-menu .nav-item .nav-link {
+  color: #1c345d;
+  padding: 10px 62px;
+}
+.header .header-body h6,
+.table-dark.table-flush td .text-danger,
+.main-content .card.bg-default .card-header h3 {
+  color: #000 !important;
+}
+.header .header-body .btn-neutral {
+  background-color: #209c09;
+  border: 1px solid #209c09;
+  color: #fff;
+}
+.header .header-body .btn-neutral:last-child {
+  background-color: #8efb2c;
+  border: 1px solid #8efb2c;
+  color: #1c345d;
+}
+.navbar-dark .navbar-nav .nav-link:hover .media .media-body span {
+  color: #209c09;
+}
+.table-dark.table-flush td .text-white {
+  color: #333 !important;
+}
+.table-dark.table-flush .list tr {
+  border-bottom: 1px solid #ddd;
+}
+.table-dark.table-flush .list tr:last-child {
+  border-bottom: 1px solid #ddd;
+}
+.table-dark.table-flush .list tr td {
+  padding: 10px 15px;
+}
+.table-dark.table-flush .thead-dark th {
+  background-color: #bce1b5;
+  border: none;
+  color: #000;
+  font-size: 12px;
+  padding: 10px 15px;
+}
+.main-content .card.bg-default .card-header {
+  padding: 18px 15px;
+}
+.main-content .card.bg-default {
+  background-color: transparent !important;
+}
+.table-dark th,
+.table-dark td,
+.table-dark thead th {
+  border: none;
+}

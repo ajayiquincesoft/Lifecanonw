@@ -1,0 +1,9 @@
+
+.recovery-form { padding:70px 0 0; }
+.recovery-form .card { padding:0 0 15px; }
+.recovery-form .card::before { border:2px solid #ccc; bottom:15px; content:''; left:15px; position:absolute; right:15px; top:15px; }
+.recovery-form .card-header { border-bottom:none; color:#000; font-size:24px; font-weight:600; padding:28px 0 0; text-align:center; }
+
+.change-txt { background-color:#fff; border-radius:7px; margin:50px 0 0; padding:40px 0; text-align:center; }
+.change-txt h3 { color:#000; font-size:20px; font-weight:bold; margin:28px 0 0; }
+.change-txt p { color:#000; font-size:14px; font-weight:500; margin:10px 0 0; }
